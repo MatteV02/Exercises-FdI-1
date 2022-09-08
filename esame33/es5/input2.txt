@@ -1,0 +1,57 @@
+Sebastiano Barisoni,MPS,Telecom Italia,Edizione
+Laura Bettini,Salini Impregilo,Techint,Fincantieri
+Matteo Bussola,Eni,Unipol Group,Ferrero
+Marta Cagnola,Salini Impregilo,Wind Tre,Luxottica
+Raffaella Calandra,Hera,Wind Tre,Ferrero
+Giovanni Capuano,Esselunga,Techint,Telecom Italia
+Nicoletta Carbone,Leonardo (Finmeccanica),Saipem,Eurospin
+Carlo Alberto Carnevale Maffè,Techint,Cassa Depositi e Prestiti,Esselunga
+Cristina Carpinelli,Coop,Leonardo (Finmeccanica),Prysmian
+Salvatore Carrubba,Exor,TotalErg,Edizione
+Giulia Crivelli,A2A,Leonardo (Finmeccanica),Telecom Italia
+Giuseppe Cruciani,Fincantieri,Enel,Hera
+Franco Dassisti,Fincantieri,Selex,TotalErg
+Massimo De Donato,Wind Tre,Prysmian,Intesa Sanpaolo
+Valeria De Rosa,UniCredit Group,A2A,Edizione
+Ivana di Martino,Coop,Salini Impregilo,Edison
+Gigi Donelli,Saras,A2A,Exor
+Andrea Ferro,Cassa Depositi e Prestiti,Eni,Selex
+Valentina Furlanetto,Fincantieri,Telecom Italia,Ferrero
+Carlo Gabardini,Coop,Edison,Edizione
+Carlo Genta,Telecom Italia,Unipol Group,Prysmian
+Oscar Giannino,MSC,Saipem,Esselunga
+Roberta Giordano,Pirelli,Saras,Selex
+Pino Insegno,Leonardo (Finmeccanica),Intesa Sanpaolo,Fincantieri
+Maria Latella,Prysmian,Enel,Edizione
+Alessandro Longoni,Telecom Italia,Saipem,Edizione
+Silvio Lorenzi,Unipol Group,Ferrovie dello Stato Italiane,STMicroelectronics
+Leonardo Manera,Fininvest,Assicurazioni Generali,Exor
+Anna Marino,Leonardo (Finmeccanica),Wind Tre,A2A
+Alessio Maurizi,Cassa Depositi e Prestiti,Leonardo (Finmeccanica),Assicurazioni Generali
+Mauro Meazza,Conad,Marcegaglia,Pirelli
+Maurizio Melis,Cassa Depositi e Prestiti,Saras,A2A
+Alessandro Milan,GSE,Enel,Exor
+Pepe Moder,STMicroelectronics,Exor,Parmalat
+Giampaolo Musumeci,Marcegaglia,Fincantieri,Exor
+Sergio Nava,Edizione,Cassa Depositi e Prestiti,Saipem
+Gianluca Nicoletti,Ferrero,MPS,Wind Tre
+Davide Oldani,Fincantieri,Hera,Coop
+Enrico Pagliarini,Wind Tre,Ferrovie dello Stato Italiane,A2A
+Pierluigi Pardo,Fincantieri,Luxottica,Pirelli
+David Parenzo,Fininvest,UniCredit Group,Intesa Sanpaolo
+Roberta Pellegatta,MSC,Saras,A2A
+Maria Luisa Pezzali,Hera,GSE,Techint
+Telmo Pievani,MPS,Prysmian,Eni
+Riccardo Poli,Coop,Unipol Group,Marcegaglia
+Dario Ricci,Esselunga,Ferrovie dello Stato Italiane,Luxottica
+Andrea Roccabella,Saras,Ferrovie dello Stato Italiane,UniCredit Group
+Debora Rosciani,A2A,Selex,Parmalat
+Enrico Ruggeri,Luxottica,Fincantieri,GSE
+Beppe Salmetti,Saras,MPS,Parmalat
+Alessandra Scaglioni,Assicurazioni Generali,Techint,A2A
+Alessandra Schepisi,Intesa Sanpaolo,A2A,TotalErg
+Simone Spetia,GSE,Fincantieri,Exor
+Federico Taddia,Assicurazioni Generali,Eni,Fincantieri
+Alessandra Tedesco,GSE,Salini Impregilo,Saras
+Gege Telesforo,Edizione,Eni,Wind Tre
+Armando Torno,GSE,Assicurazioni Generali,Intesa Sanpaolo

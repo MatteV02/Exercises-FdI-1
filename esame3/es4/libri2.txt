@@ -1,0 +1,100 @@
+56934;Lo straniero;413
+73474;Alla ricerca del tempo perduto;174
+14109;Il processo;234
+41479;Il piccolo principe;285
+37098;La condizione umana;202
+71317;Viaggio al termine della notte;365
+27079;Furore;337
+58598;Per chi suona la campana;189
+45878;Il grande Meaulnes;481
+75165;La schiuma dei giorni;308
+84141;Il secondo sesso;362
+89745;Aspettando Godot;144
+96283;L'essere e il nulla;50
+59048;Il nome della rosa;378
+83105;Arcipelago Gulag;278
+89184;Paroles;497
+44529;Alcools;92
+84389;Il Loto Blu;464
+64259;Diario;53
+83911;Tristi tropici;117
+58222;Il mondo nuovo;484
+58864;1984;230
+71761;Asterix il gallico;437
+41205;La cantatrice calva;171
+43496;Tre saggi sulla teoria sessuale;265
+64877;L'opera al nero;455
+32430;Lolita;298
+39598;Ulisse;298
+62753;Il deserto dei Tartari;333
+65675;I falsari;80
+83603;L'ussaro sul tetto (film);70
+46402;Bella del Signore;180
+28425;Cent'anni di solitudine;309
+29785;L'urlo e il furore;230
+23126;Thérèse Desqueyroux;232
+72443;Zazie nel metro;262
+57017;Sovvertimento dei sensi;319
+58834;Via col vento;107
+41681;L'amante di Lady Chatterley;272
+71982;La montagna incantata;60
+50192;Bonjour tristesse;287
+84971;Il silenzio del mare;286
+26372;La vita, istruzioni per l'uso;358
+31365;Il mastino dei Baskerville;164
+56156;Sotto il sole di Satana;367
+41933;Il grande Gatsby;100
+51037;Lo scherzo;58
+99886;Il disprezzo;74
+12152;L'assassinio di Roger Ackroyd;130
+85534;Nadja;406
+91773;Aurélien;95
+94083;Le Soulier de satin;391
+87476;Sei personaggi in cerca d'autore;66
+77251;La resistibile ascesa di Arturo Ui;85
+91064;Venerdì o il limbo del Pacifico;179
+51806;La guerra dei mondi;282
+44423;Se questo è un uomo;163
+55359;Il Signore degli Anelli;187
+53292;Viticci;384
+38074;Capitale de la douleur;356
+95115;Martin Eden;144
+93764;Una ballata del mare salato;119
+38337;Il grado zero della scrittura;252
+12776;L'onore perduto di Katharina Blum;82
+83700;La riva delle Sirti;472
+32717;Le parole e le cose;87
+42201;Sulla strada;230
+88374;Il viaggio meraviglioso di Nils Holgersson;230
+14603;Una stanza tutta per sé;339
+11440;Cronache marziane;337
+94687;Il rapimento di Lol V. Stein;179
+44314;Il verbale;53
+42801;Tropisme;223
+16351;Diario;216
+27086;Lord Jim;195
+60473;Scritti;203
+56536;Il teatro e il suo doppio;389
+51128;Nuova York;468
+73415;Finzioni;279
+14091;Moravagine;465
+54857;Il generale dell'armata morta;300
+64315;La scelta di Sophie;418
+71296;Romancero gitano;138
+67784;Pietro il Lettone;163
+22295;Notre Dame des Fleurs;316
+68656;L'uomo senza qualità;95
+44159;Fureur et mystère;265
+31905;Il giovane Holden;191
+33260;Niente orchidee per miss Blandish (film);253
+56809;Blake e Mortimer;216
+61619;I quaderni di Malte Laurids Brigge;227
+38473;La modificazione;397
+76000;Le origini del totalitarismo;177
+96064;Il maestro e Margherita;328
+65274;Crocifissione in Rosa;349
+66205;Il grande sonno;471
+97691;Amers;420
+77662;Gaston;475
+31465;Sotto il vulcano;430
+48349;I figli della mezzanotte;359

@@ -1,0 +1,5 @@
+Francesco,Edera,Tetrapak,System
+Marco Bianchi,System,Doxee,Edera
+Matteo Rossi,Comune di Modena,Tetrapak,System
+Luca Neri,Foodpartner,EFFER,NonStop Recruitment
+Giovanni Verdi,Erre Technology Group,AMARIS Group,UniCredit

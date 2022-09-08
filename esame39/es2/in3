@@ -1,0 +1,14 @@
+Il linguaggio fu originariamente sviluppato da Dennis Ritchie presso i Bell Labs della AT&T tra il 1969 e il 1973, 
+con lo scopo di utilizzarlo per la stesura del sistema operativo UNIX, 
+precedentemente realizzato da Ken Thompson e Ritchie stesso in assembly del PDP-7. 
+Nel 1972 esordi' il primo sistema UNIX su un DEC PDP-11, scritto interamente col nuovo linguaggio di programmazione C.
+Nel 1978 la pubblicazione del libro Il linguaggio C ne fece crescere rapidamente la diffusione, 
+portando alla nascita di diversi dialetti e dunque alla necessita' di definire uno standard.
+
+La prima standardizzazione del C fu realizzata dall'ANSI nel 1989 (ANSI X3.159-1989), nota come C89. 
+La stessa versione, solo con modifiche di formattazione minime, 
+fu poi standardizzata anche dall'ISO nel 1990 (ISO/IEC 9899:1990), nota come C90.
+Successivamente l'ISO ha rilasciato altre quattro versioni del linguaggio C, note come C95 (ISO/IEC 9899/AMD1:1995), 
+C99 (ISO/IEC 9899:1999), C11 (ISO/IEC 9899:2011/Cor 1:2012) e C18 (ISO/IEC 9899:2018). 
+Di queste, la C99 ha portato i principali miglioramenti al linguaggio di programmazione, introducendo nuovi tipi di dato,
+gli inizializzatori designati per gli array, gli array di dimensione variabile ed altri miglioramenti mutuati da C++. 

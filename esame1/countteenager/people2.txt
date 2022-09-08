@@ -1,0 +1,15 @@
+14
+Tizio 21
+Caio 15
+Sempronio 51
+Michele 89
+Pino 19
+Merlino 16
+Anacleto 65
+Birba 14
+Tarzan 20
+Fabio 34
+Picchierello 18
+Carmelo 16
+Gianni 22
+lula 100

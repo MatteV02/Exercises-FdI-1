@@ -1,0 +1,8 @@
+primo = uno
+ secondo = due
+	terzo =		tre
+# quarto=
+quinto = 
+#sesto = 123
+settimo = 456
+ottavo = due cose

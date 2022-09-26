@@ -1,0 +1,3 @@
+Piccolo file di prova.
+Se tutto va bene si dovrebbe vedere uno zero qui sotto.
+0
